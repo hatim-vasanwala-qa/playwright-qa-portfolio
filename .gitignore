@@ -1,0 +1,19 @@
+# Dependencies
+node_modules/
+
+# Environment variables
+.env
+
+# Auth state & test outputs
+.auth/
+test-results/
+playwright-report/
+blob-report/
+allure-results/
+allure-report/
+
+# Logs & OS artifacts
+*.log
+.DS_Store
+Thumbs.db
+
