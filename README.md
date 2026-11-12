@@ -1,5 +1,7 @@
 # Playwright UI & API Test Automation Framework
 
+[![Playwright UI & API CI](https://github.com/hatim-vasanwala-qa/playwright-qa-portfolio/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/hatim-vasanwala-qa/playwright-qa-portfolio/actions/workflows/ci.yml)
+
 An end-to-end QA Automation portfolio repository built with **Playwright**, **TypeScript**, **Page Object Model (POM)**, **Faker.js**, **Allure Reporting**, and **GitHub Actions CI/CD** targeting public demo applications.
 
 > **Disclaimer:** All test suites run exclusively against open public QA practice sandboxes (`https://www.saucedemo.com` for UI and `https://dummyjson.com` for REST APIs). No proprietary or employer code is included.
